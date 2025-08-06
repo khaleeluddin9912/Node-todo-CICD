@@ -1,4 +1,4 @@
-# Node Base Image
+# Node Base Images
 FROM node:12.2.0-alpine
 
 #Working Directry
